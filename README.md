@@ -17,4 +17,4 @@ just do it
 additional text
 
 ## Copyright
-arr 2017 Justin
+arr 2017 Justin W
