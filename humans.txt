@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   justin wiseman	justin@fakemail.com	fakeTwit
 
 # THANKS
 
