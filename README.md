@@ -11,7 +11,7 @@ this is the introduction
 
 ## How to contribute
 
-just do it
+just do it. fork it and pull
 
 ## addition heading
 additional text
